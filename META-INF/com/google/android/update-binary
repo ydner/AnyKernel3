@@ -398,20 +398,7 @@ if [ -f version ]; then
   ui_print " ";
 fi;
 
-ui_print ">>>>>>>>>>>>>>>>>>==<<<<<<<<<<<<<<<<<<";
-ui_print " ";
-ui_print " TTTTTTTTTTTEEEEEEEE        A         ";
-ui_print " TTTTTTTTTTTEEEEEEEE       AAA        ";
-ui_print "     TTT    EEE           A   A       ";
-ui_print "     TTT    EEE          A     A      ";
-ui_print "     TTT    EEEEEEEE    AAAAAAAAA     ";
-ui_print "     TTT    EEE        AAAAAAAAAAA    ";
-ui_print "     TTT    EEE       AA         AA   ";
-ui_print "     TTT    EEEEEEEE AA           AA  ";
-ui_print "     TTT    EEEEEEEEAA             AA ";
-ui_print " ";
-ui_print ">>>>>>>>>>>>>>>>>==<<<<<<<<<<<<<<<<<<<";
-ui_print "!            TEA Kernel            !";
+ui_print "Arch-Linix Kernel";
 ui_print ">>>>>>>>>>>>>>>>>==<<<<<<<<<<<<<<<<<<<";
 ui_print "!  AK3 by osm0sis @xda-developers  !";
 ui_print ">>>>>>>>>>>>>>>>>==<<<<<<<<<<<<<<<<<<<";
