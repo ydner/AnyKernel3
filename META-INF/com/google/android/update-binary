@@ -398,7 +398,8 @@ if [ -f version ]; then
   ui_print " ";
 fi;
 
-ui_print "Arch-Linix Kernel";
+ui_print "Illustrious Kernel";
+ui_print "By : Mari Illostious Makinami";
 ui_print ">>>>>>>>>>>>>>>>>==<<<<<<<<<<<<<<<<<<<";
 ui_print "!  AK3 by osm0sis @xda-developers  !";
 ui_print ">>>>>>>>>>>>>>>>>==<<<<<<<<<<<<<<<<<<<";
